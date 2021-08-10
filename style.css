@@ -1,0 +1,29 @@
+body {
+	background-color: black;
+
+}
+
+h1 {
+	color: limegreen;
+	text-align: center;
+	font-family: "Lucida Console", Lucida, monospace;
+	
+}
+
+p {
+	color: limegreen;
+	text-align: center;
+	font-family: "Lucida Console", Lucida, monospace;
+}
+
+img {
+	color: limegreen;
+	text-align: center;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
