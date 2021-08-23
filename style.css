@@ -4,21 +4,30 @@ body {
 }
 
 h1 {
-	color: limegreen;
+	color: chartreuse;
 	text-align: center;
 	font-family: "Lucida Console", Lucida, monospace;
 	
 }
 
 p {
-	color: limegreen;
+	color: chartreuse;
 	text-align: center;
 	font-family: "Lucida Console", Lucida, monospace;
 }
 
 img {
-	color: limegreen;
+	color: chartreuse;
 	text-align: center;
+}
+
+a {
+	background-color: chartreuse;
+	color: black;
+	padding: 45px 65bx;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
 }
 
 .center {
